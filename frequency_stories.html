@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequency Stories</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <h1>Frequency Stories</h1>
+    <label for="story-selection">Select a story:</label>
+    <select name="story-selection" id="story-selection"></select>
+    <button id="story-selection-btn" class="submit-btn">Select</button>
+    <h3 class="info" id="current-story">No Story Selected</h3>
+    <h4 class="info">Description:</h4>
+    <p class="info" id="story-description"></p>
+    <div class="wrapper">
+        <div class="two-col-grid" id="story-mount">
+            <div class="grid-box section-title right-border">
+                <p>Spanish</p>
+            </div>
+            <div class="grid-box section-title">
+                <div>
+                    <p>English</p>
+                    <p class="directions">Click to reveal text</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="JS/frequency.js"></script>
+    <script type="module" src="JS/stories/asterion.js"></script>
+</body>
+</html>
