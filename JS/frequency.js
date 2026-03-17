@@ -32,7 +32,7 @@ const storyTitle = document.querySelector('#current-story');
 const storyDescr = document.querySelector('#story-description');
 //Select HTML element to mount the lines of story to
 const storyContainer = document.querySelector('#story-mount')
-//Select HTML user Inputs 
+//Select HTML user Inputs
 const storyBtn = document.querySelector('#story-selection-btn');
 const storyInput = document.querySelector('#story-selection');
 
