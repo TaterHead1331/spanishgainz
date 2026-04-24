@@ -1,14 +1,11 @@
-//import stories 
-import {asterionChapterOne, asterionChapterTwo, asterionChapterThree, asterionChapterFour, asterionChapterFive} from "./stories/asterion.js";
-
+//import stories
+import {amanecerRojoIntro, amanecerRojoChapterOne, amanecerRojoChapterTwo} from "./stories/amanecerRojo.js";
 
 //a data map of the stories so they can be easily referenced
 const storyMap = {
-    asterionChapterOne,
-    asterionChapterTwo,
-    asterionChapterThree,
-    asterionChapterFour,
-    asterionChapterFive,
+    amanecerRojoIntro,
+    amanecerRojoChapterOne,
+    amanecerRojoChapterTwo,
 };
 
 function populateStoryDropdown(){
