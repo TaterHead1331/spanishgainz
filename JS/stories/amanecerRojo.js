@@ -537,7 +537,7 @@ const amanecerRojoChapterTwo = {
         spanish: "Aquel fue el último baile de mi padre. Solo lo he contemplado una vez, y de la misma forma he oído la canción solo una vez también. No la entendí cuando era un niño, ya que hablaba de valles lejanos, niebla, amantes perdidos y un segador destinado a guiarnos hasta nuestro hogar invisible. Yo era pequeño y curioso cuando la mujer la cantó mientras colgaban a su hijo por robar comida. Habría sido un muchacho alto, pero nunca obtenía la comida suficiente para conseguir recubrir sus huesos de carne. Su madre fue la siguiente. La gente de Lico celebró los Lamentos Languidecientes para ellos: un ritmo trágico de golpes de puño contra el pecho, que se va debilitando despacio, despacio, hasta que los puños, como el corazón de la madre, dejan de latir y todo el mundo se dispersa.",
         english: "That was my father’s last dance. I’ve only seen it once, and likewise I’ve only heard the song once. I didn’t understand it when I was a child, since it spoke of distant valleys, mist, lost lovers, and a reaper meant to guide us to our unseen home. I was young and curious when the woman sang it as they hanged her son for stealing food. He would have been a tall boy, but he never had enough food to put flesh on his bones. His mother was next. The people of Lykos performed the Fading Dirge for them: a tragic rhythm of fists beating against chests, growing softer and softer until the fists, like the mother’s heart, stop, and everyone drifts away."
     },
-        {
+    {
         id: 45,
         spanish: "El sonido me atormentó aquella noche. Lloré a solas en nuestra pequeña cocina. Me preguntaba por qué lloraba entonces si no lo había hecho por mi padre. Mientras yacía tumbado en el suelo frío oí unos tenues arañazos en la puerta de nuestra casa. Cuando la abrí encontré un capullo de hemanto depositado en la tierra roja. No había ni un alma a la vista; tan solo las diminutas pisadas de Eo en el suelo. Aquella fue la segunda vez que llevó flores después de una muerte.",
         english: "The sound haunted me that night. I cried alone in our small kitchen. I wondered why I cried then if I hadn’t done so for my father. As I lay on the cold floor, I heard faint scratching at the door of our home. When I opened it, I found a hemanto blossom laid on the red soil. There wasn’t a soul in sight; only Eo’s tiny footprints on the ground. That was the second time she brought flowers after a death."
@@ -552,8 +552,182 @@ const amanecerRojoChapterTwo = {
         spanish: "Puede que se burle de mí cuando lo digo, pero ella es el espíritu de nuestra gente. Nos ha tocado vivir una vida llena de dificultades. Tenemos que sacrificarnos por el bien de unos hombres y unas mujeres a quienes no conocemos. Tenemos que excavar en Marte para acondicionárselo a otros. Eso nos convierte a algunos en gente de pensamientos retorcidos. Pero la bondad de Eo, su risa y su voluntad fiera son lo mejor que puede nacer de un hogar como el nuestro.",
         english: "She may mock me when I say it, but she is the spirit of our people. We have been given a life full of hardship. We must sacrifice for the sake of men and women we do not know. We must dig on Mars to make it ready for others. That twists some of us inside. But Eo’s kindness, her laughter, and her fierce will are the best things that can come from a home like ours."
     },
-
+        {
+        id: 48,
+        spanish: "La voy a buscar al ramal del sector de mi familia, a menos de un kilómetro de túnel del área común. El sector es uno más de entre las dos docenas que rodean el área común. Es un conglomerado caótico de metal y casas de rocas rojizas excavadas en el interior de una de las viejas minas. La piedra y la tierra son nuestros techos, nuestros suelos, nuestro hogar. El Clan es una gigantesca familia. Eo creció a un paso de mi casa. Sus hermanos son como mis hermanos. Su padre es como el padre que perdí.",
+        english: "I go to find her in the branch of my family’s sector, less than a kilometer of tunnel from the common area. The sector is one of two dozen that surround the common area. It is a chaotic cluster of metal and reddish rock houses carved into one of the old mines. Stone and earth are our ceilings, our floors, our home. The Clan is a massive family. Eo grew up just steps from my house. Her brothers are like my brothers. Her father is like the father I lost."
+    },
+    {
+        id: 49,
+        spanish: "Un embrollo de cables eléctricos se enmaraña en el techo de la caverna como una jungla de lianas rojas y negras. Las luces penden de esa jungla, y se mecen suavemente con el aire que circula en el sistema de oxigenación central del área común. Sobre el centro del sector cuelga una imponente holopantalla. Es un aparato cuadrado que emite imágenes en cada uno de sus lados. Los píxeles están completamente oscurecidos y la imagen es imprecisa y borrosa, pero jamás ha dejado de cumplir su cometido, jamás se ha apagado. Baña nuestro conglomerado de casas con su propia luz pálida. Vídeos de la Sociedad.",
+        english: "A tangle of electrical cables twists across the cavern ceiling like a jungle of red and black vines. Lights hang from that jungle, swaying gently with the air flowing through the central oxygen system of the common area. Above the center of the sector hangs an imposing holoScreen. It is a square device that projects images on each of its sides. The pixels are dim and the image is blurry and indistinct, but it has never failed its purpose, never gone dark. It bathes our cluster of homes in its pale light. Videos of the Society."
+    },
+    {
+        id: 50,
+        spanish: "La casa de mi familia está excavada en la roca a unos cien metros de distancia del suelo del sector. Está unida a él por medio de un sendero escarpado, aunque también se puede hacer llegar a alguien al nivel del sector con poleas y cuerdas. Solo las utilizan los viejos y los enfermos, y tenemos pocos de ambas cosas.",
+        english: "My family’s home is carved into the rock about a hundred meters above the sector floor. It is connected by a steep path, though someone can also be lowered to the sector level using pulleys and ropes. Only the old and the sick use them, and we have few of either."
+    },
+    {
+        id: 51,
+        spanish: "Nuestra casa tiene pocas habitaciones. Hasta hace poco, Eo y yo no habíamos dispuesto de una para nosotros. Kieran y su familia cuentan con dos, y mi madre y mi hermana comparten la otra.",
+        english: "Our home has few rooms. Until recently, Eo and I did not have one of our own. Kieran and his family have two, and my mother and sister share the other."
+    },
+    {
+        id: 52,
+        spanish: "Todos los lambdas de Lico viven en nuestro sector. Omega e Ípsilon son nuestros vecinos, cada uno a un lado a un minuto de distancia por el ancho túnel. Todos estamos conectados. Excepto los gammas. Ellos viven en el área común, por encima de tabernas, casetas de reparaciones, costureras y mercadillos. Los quincallas viven encima de ellos en una fortaleza, cerca de la estéril superficie de nuestro cruel mundo. Allí es donde se encuentran los puertos a través de los que llega la comida de la Tierra hasta nosotros, los pioneros abandonados.",
+        english: "All the Lambdas of Lykos live in our sector. Omega and Ipsilon are our neighbors, each a minute away down the wide tunnel. We are all connected. Except the Gammas. They live in the common area, above taverns, repair stalls, seamstresses, and markets. The Grays live above them in a fortress, near the barren surface of our cruel world. That is where the ports are, through which food from Earth reaches us, the abandoned pioneers."
+    },
+    {
+        id: 53,
+        spanish: "La holopantalla que pende sobre mi cabeza me muestra imágenes de las batallas de la humanidad, seguidas por una música triunfal que acompaña la vertiginosa sucesión de éxitos de la Sociedad. El emblema de la Sociedad, una pirámide de oro con tres barras paralelas unidas a cada uno de los lados y un círculo rodeándolo todo, aparece en la pantalla como una llama. La voz de Octavia au Lune, la anciana soberana de la Sociedad, narra la lucha que el hombre afronta al colonizar los planetas y las lunas del Sistema.",
+        english: "The holoScreen hanging above my head shows me images of humanity’s battles, followed by triumphant music accompanying a dizzying succession of the Society’s victories. The emblem of the Society—a golden pyramid with three parallel bars attached to each side and a circle surrounding it—appears on the screen like a flame. The voice of Octavia au Lune, the elderly sovereign of the Society, narrates the struggle mankind faces in colonizing the planets and moons of the System."
+    },
+    {
+        id: 54,
+        spanish: "«Desde los albores de la humanidad, la epopeya de nuestra especie narra una historia de guerras tribales. Una historia de pruebas, de sacrificio, y de atreverse a desafiar los límites de la naturaleza. Ahora, mediante la obediencia y el deber, estamos unidos; pero nuestra lucha no es diferente. Hijos e hijas de todos los colores, se nos pide que nos volvamos a sacrificar una vez más. En nuestro mejor momento, lanzamos nuestras mejores semillas a las estrellas. ¿Dónde prosperaremos primero? ¿Venus? ¿Mercurio? ¿Marte? ¿Las lunas de Neptuno o Júpiter?».",
+        english: "\"Since the dawn of humanity, the epic of our species tells a story of tribal wars. A story of trials, of sacrifice, and of daring to challenge the limits of nature. Now, through obedience and duty, we are united; yet our struggle is no different. Sons and daughters of all colors, we are asked to sacrifice ourselves once more. At our finest hour, we cast our best seeds to the stars. Where shall we flourish first? Venus? Mercury? Mars? The moons of Neptune or Jupiter?\""
+    },
+        {
+        id: 55,
+        spanish: "Su voz se vuelve solemne cuando su intemporal rostro de regia apariencia se inclina para escudriñar desde lo alto de la HP. En las palmas de sus manos brilla el emblema de oro —un punto en el centro de un círculo alado— con las alas doradas extendidas a ambos lados de su antebrazo. Solo una imperfección estropea su rostro áureo: una larga cicatriz curvada que le recorre el pómulo derecho. Tiene la belleza de un pájaro de presa despiadado.",
+        english: "Her voice turns solemn as her timeless, regal face leans down to peer from above the holo. In the palms of her hands shines the golden emblem—a point at the center of a winged circle—with golden wings extending along both sides of her forearms. Only one flaw mars her golden face: a long curved scar running across her right cheekbone. She has the beauty of a ruthless bird of prey."
+    },
+    {
+        id: 56,
+        spanish: "«Vosotros, valientes rojos, pioneros de Marte (los más fuertes de la raza humana), os sacrificáis por el progreso, os sacrificáis para allanar el camino del futuro. Vuestra vida y vuestra sangre son el primer pago por la inmortalidad de la raza humana mientras vamos más allá de la Tierra y de la Luna. Vosotros vais adonde nosotros no podríamos ir. Vosotros sufrís para que otros no sufran.",
+        english: "\"You, brave Reds, pioneers of Mars (the strongest of the human race), sacrifice yourselves for progress, you sacrifice yourselves to pave the way for the future. Your lives and your blood are the first payment for the immortality of the human race as we move beyond Earth and the Moon. You go where we could not go. You suffer so that others do not suffer."
+    },
+    {
+        id: 57,
+        spanish: "»Yo os saludo. Yo os amo. El helio-3 que extraéis es la savia del proceso de terraformación. El planeta rojo tendrá pronto un aire que se podrá respirar y un suelo que se podrá poblar. Y pronto, cuando Marte sea habitable, cuando vosotros, los valientes pioneros, hayáis preparado el planeta rojo para nosotros, los Colores menos fuertes, nos uniremos a vosotros y seréis dignos del mayor reconocimiento bajo el cielo que vuestro gran esfuerzo habrá creado. ¡Vuestro sudor y vuestra sangre son el combustible de la terraformación!",
+        english: "\"I salute you. I love you. The helium-3 you extract is the lifeblood of the terraforming process. The red planet will soon have air to breathe and soil to inhabit. And soon, when Mars is habitable, when you, the brave pioneers, have prepared the red planet for us, the less strong Colors, we will join you and you will be worthy of the greatest recognition under the sky your great labor will have created. Your sweat and your blood are the fuel of terraforming!"
+    },
+    {
+        id: 58,
+        spanish: "»¡Valientes pioneros! Recordad siempre que la obediencia es la virtud más elevada. Por encima de todo, la obediencia, el respeto, el sacrificio, la jerarquía...». No hay nadie en la cocina, pero oigo a Eo en el dormitorio.",
+        english: "\"Brave pioneers! Always remember that obedience is the highest virtue. Above all, obedience, respect, sacrifice, hierarchy...\" There is no one in the kitchen, but I hear Eo in the bedroom."
+    },
+        {
+        id: 59,
+        spanish: "—¡Quédate quieto dondequiera que estés! —exige desde detrás de la puerta—. Ni se te ocurra, bajo ninguna circunstancia, mirar en esta habitación.",
+        english: "\"Stay right where you are!\" she demands from behind the door. \"Don’t you dare, under any circumstances, look into this room.\""
+    },
+    {
+        id: 60,
+        spanish: "—Vale. —Me detengo.",
+        english: "\"Okay.\" I stop."
+    },
+    {
+        id: 61,
+        spanish: "Sale al cabo de un rato, turbada y sonrojada. Tiene el pelo cubierto de polvo y telarañas. Paso los dedos por entre la maraña. Acaba de llegar de la hilandería, donde cosechan la bioseda.",
+        english: "She comes out after a while, flustered and blushing. Her hair is covered in dust and cobwebs. I run my fingers through the tangle. She’s just come from the spinnery, where they harvest biosilk."
+    },
+    {
+        id: 62,
+        spanish: "—No has pasado por el ventilador —sonrío.",
+        english: "\"You haven’t been through the vent,\" I smile."
+    },
+    {
+        id: 63,
+        spanish: "—No me ha dado tiempo. Tuve que escaparme de la hilandería para recoger algo.",
+        english: "\"I didn’t have time. I had to slip away from the spinnery to pick something up.\""
+    },
+    {
+        id: 64,
+        spanish: "—¿Qué has recogido? Sonríe con dulzura.",
+        english: "\"What did you pick up?\" She smiles sweetly."
+    },
+    {
+        id: 65,
+        spanish: "—No te casaste conmigo porque te lo contara todo, ¿recuerdas? Y no entres en esa habitación.",
+        english: "\"You didn’t marry me so I’d tell you everything, remember? And don’t go into that room.\""
+    },
+    {
+        id: 66,
+        spanish: "Me abalanzo hacia la puerta. Ella me bloquea el camino y me baja la cinta para el sudor que llevo en la frente hasta taparme los ojos. Me empuja el pecho con la frente. Me río y aparto la cinta. Agarro a Eo por los hombros para hacerla retroceder y poder mirarla a los ojos.",
+        english: "I lunge for the door. She blocks my path and pulls the sweatband on my forehead down over my eyes. She pushes against my chest with her forehead. I laugh and pull the band away. I grab Eo by the shoulders to push her back and look her in the eyes."
+    },
+    {
+        id: 67,
+        spanish: "—¿O qué? —le pregunto con una ceja arqueada. Ella se limita a sonreírme y ladear la cabeza.",
+        english: "\"Or what?\" I ask, raising an eyebrow. She simply smiles at me and tilts her head."
+    },
+    {
+        id: 68,
+        spanish: "Me aparto de la puerta de metal. Soy capaz de sumergirme en minas de roca fundida sin parpadear, pero hay advertencias que puedes ignorar y otras que no.",
+        english: "I step away from the metal door. I can dive into molten rock mines without blinking, but there are warnings you can ignore and others you can’t."
+    },
+    {
+        id: 69,
+        spanish: "Ella se pone de puntillas y me da un beso justo en la nariz.",
+        english: "She rises on her toes and kisses me right on the nose."
+    },
+    {
+        id: 70,
+        spanish: "—Buen chico. Sabía que serías fácil de adiestrar —dice.",
+        english: "\"Good boy. I knew you’d be easy to train,\" she says."
+    },
+    {
+        id: 71,
+        spanish: "Después arruga la nariz porque huele mi quemadura. No me hace carantoñas, ni me regaña. Ni siquiera dice nada, excepto un «te quiero» con una sombra de preocupación en la voz.",
+        english: "Then she wrinkles her nose as she smells my burn. She doesn’t fuss over me or scold me. She doesn’t even say anything, except an \"I love you\" with a trace of concern in her voice."
+    },
+    {
+        id: 72,
+        spanish: "Aparta los restos fundidos de la escalfandra de mi herida, que se alarga desde los nudillos hasta la muñeca, y me aplica un emplasto de seda con antibiótico y ribonucleico.",
+        english: "She removes the melted remnants of my suit from my wound, which runs from my knuckles to my wrist, and applies a silk patch with antibiotic and ribonucleic treatment."
+    },
+    {
+        id: 73,
+        spanish: "—¿De dónde has sacado eso? —pregunto.",
+        english: "\"Where did you get that?\" I ask."
+    },
+    {
+        id: 74,
+        spanish: "—Si yo no te sermoneo, tú no me haces interrogatorios.",
+        english: "\"If I don’t lecture you, you don’t interrogate me.\""
+    },
+    {
+        id: 75,
+        spanish: "La beso en la nariz y juego con la fina trenza de pelo que lleva en el dedo anular. Mi pelo enrollado con hebras de seda forma su cinta de casada.",
+        english: "I kiss her on the nose and play with the thin braid of hair she wears on her ring finger. My hair, wrapped with strands of silk, forms her wedding band."
+    },
+    {
+        id: 76,
+        spanish: "—Tengo una sorpresa para ti esta noche —me dice.",
+        english: "\"I have a surprise for you tonight,\" she tells me."
+    },
+    {
+        id: 77,
+        spanish: "—Y yo otra para ti —le respondo, pensando en el Laurel. Le coloco en la cabeza mi cinta para el sudor como si fuera una corona. Al notar que está mojada, arruga la nariz.",
+        english: "\"And I have one for you,\" I reply, thinking of the Laurel. I place my sweatband on her head like a crown. When she notices it’s wet, she wrinkles her nose."
+    },
+    {
+        id: 78,
+        spanish: "—Bueno, en realidad yo tengo dos para ti, Darrow. Lástima que no lo previeras. Podrías haberme traído un terrón de azúcar o una sábana de satén o... quizás incluso café para acompañar el primer regalo.",
+        english: "\"Well, actually I have two for you, Darrow. Shame you didn’t plan ahead. You could have brought me a lump of sugar or a satin sheet or... maybe even coffee to go with the first gift.\""
+    },
+    {
+        id: 79,
+        spanish: "—¡Café! —Me río—. ¿Con qué clase de color te crees que te has casado? Suspira.",
+        english: "\"Coffee!\" I laugh. \"What kind of Color do you think you married?\" She sighs."
+    },
+    {
+        id: 80,
+        spanish: "—Vaya un partido, un sondeador como tú. Loco, terco, temerario…",
+        english: "\"What a catch, a driller like you. Crazy, stubborn, reckless...\""
+    },
+    {
+        id: 81,
+        spanish: "—¿Diestro? —digo con una sonrisa maliciosa mientras deslizo una mano por debajo de su falda.",
+        english: "\"Skilled?\" I say with a mischievous smile as I slide a hand beneath her skirt."
+    },
+    {
+        id: 82,
+        spanish: "—Supongo que eso tiene sus ventajas. —Sonríe y me aparta la mano como si fuera una araña—. Y ahora ponte estos guantes si no quieres que las mujeres te den la murga. Tu madre ya ha ido para allá.",
+        english: "\"I suppose that has its advantages.\" She smiles and brushes my hand away like it’s a spider. \"Now put on these gloves if you don’t want the women nagging you. Your mother’s already gone there.\""
+    }
     ]
-}
+};
 
 export {amanecerRojoIntro, amanecerRojoChapterOne, amanecerRojoChapterTwo};
