@@ -14,17 +14,46 @@
     <h3 class="info" id="current-story">No Story Selected</h3>
     <h4 class="info">Description:</h4>
     <p class="info" id="story-description"></p>
-    <div class="wrapper">
-        <div class="two-col-grid" id="story-mount">
-            <div class="grid-box section-title right-border">
-                <p>Spanish</p>
-            </div>
-            <div class="grid-box section-title">
-                <div>
-                    <p>English</p>
-                    <p class="directions">Click to reveal text</p>
+    <div class="wrapper" id="story-mount">
+        <div class="translation-row">
+            <div class="wrapper">
+                <div class="line spanish">
+                    <h4>Spanish</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vitae aliquid optio assumenda dicta maiores porro odio expedita illo debitis.</p>
                 </div>
+                <div class="line english">
+                    <h4>English</h4>
+                    <p class="blur">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa asperiores, vero eius molestias accusantium quis adipisci perferendis eos tempore quaerat.</p>
+                </div>         
             </div>
+            <div class="slider">
+                <div class="range-wrap wrapper">
+                    <div class="full-width">
+                        <p class="center-txt">Comprehension</p>
+                        <p class="center-txt"><span class="slider-value">0</span>%</p>
+                        <input class="slider-percent" type="range" min="0" max="100" value="0" step="1">
+                        <div class="slider-labels">
+                            <span>0%</span>
+                            <span>|</span>
+                            <span>|</span>
+                            <span>50%</span>
+                            <span>|</span>
+                            <span>|</span>
+                            <span>100%</span>
+                        </div>
+                    </div>
+                </div>
+           </div>
+        </div>
+    </div>
+    <div class="wrapper btn-container">
+        <button id="comprehension-btn" class="submit-btn">Calculate Comprehension</button>
+    </div>
+    <div class="modal-bkg hidden" id="modal">
+        <div class="modal-content">
+            <button id="modal-close" class="submit-btn">X</button>
+            <h3>You understood <span id="comp-number">0</span>% of the content.</h3>
+            <p id="modal-message">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus cum et eum perspiciatis minus placeat, quam fuga temporibus commodi impedit?</p>
         </div>
     </div>
     <script type="module" src="JS/frequency.js"></script>
