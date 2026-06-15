@@ -171,7 +171,8 @@ function calculateComp(){
     console.log("input points: ", inputPoints);
 
     //total value of sliders / (# of lines * 100)
-    let score = (Number(inputPoints) / Number(totalPoints)) *100;
+    let rawScore = (Number(inputPoints) / Number(totalPoints)) *100;
+    let score = rawScore.toFixed(1);
     console.log(score);
 
     const scoreValue = document.querySelector('#comp-number');
